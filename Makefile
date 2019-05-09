@@ -2,9 +2,9 @@
 
 NUM_HASHES=100
 #ROCKYOU=rockyou3m.txt
-#ROCKYOU=rockyou100.txt
+ROCKYOU=rockyou100.txt
 #ROCKYOU=rockyou1000.txt
-ROCKYOU=rockyou2000.txt
+#ROCKYOU=rockyou2000.txt
 
 all: hashpass crack
 
